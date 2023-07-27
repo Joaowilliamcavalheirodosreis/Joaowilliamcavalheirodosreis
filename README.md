@@ -84,7 +84,7 @@ Sistema único de saúde
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Bootstrap demo</title>
+    <title>sus.em.projeto</title>
     <link rel="stylesheet" href="_css/estilo.css">
   </head>
     <ul class="nav justify-content-center">
